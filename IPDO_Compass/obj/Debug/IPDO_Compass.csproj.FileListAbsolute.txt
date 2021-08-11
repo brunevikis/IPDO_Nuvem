@@ -1,0 +1,172 @@
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\bin\Debug\Leadtools.Async.dll
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\bin\Debug\IPDO_Compass.exe.config
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\bin\Debug\IPDO_Compass.exe
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\bin\Debug\IPDO_Compass.pdb
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\bin\Debug\Leadtools.Codecs.dll
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\bin\Debug\Leadtools.dll
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\bin\Debug\Leadtools.Drawing.dll
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\bin\Debug\Leadtools.Drawing.MP.dll
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\bin\Debug\Leadtools.Logging.dll
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\bin\Debug\Leadtools.Svg.dll
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\bin\Debug\Leadtools.xml
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\bin\Debug\Leadtools.Codecs.xml
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\bin\Debug\Leadtools.Drawing.xml
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\bin\Debug\Leadtools.Svg.xml
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\bin\Debug\Leadtools.Logging.xml
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\obj\Debug\IPDO_Compass.csprojAssemblyReference.cache
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\obj\Debug\IPDO_Compass.Form1.resources
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\obj\Debug\IPDO_Compass.Properties.Resources.resources
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\obj\Debug\IPDO_Compass.csproj.GenerateResource.cache
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\obj\Debug\IPDO_Compass.csproj.CoreCompileInputs.cache
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\obj\Debug\IPDO_Compass.csproj.CopyComplete
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\obj\Debug\IPDO_Compass.exe
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\obj\Debug\IPDO_Compass.pdb
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\bin\Debug\Common.Logging.Core.dll
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\bin\Debug\Common.Logging.dll
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\bin\Debug\zxing.dll
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\bin\Debug\zxing.presentation.dll
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\bin\Debug\Common.Logging.pdb
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\bin\Debug\Common.Logging.xml
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\bin\Debug\Common.Logging.Core.pdb
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\bin\Debug\Common.Logging.Core.xml
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\bin\Debug\zxing.pdb
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\bin\Debug\zxing.xml
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\bin\Debug\zxing.presentation.pdb
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\bin\Debug\zxing.presentation.xml
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\bin\Debug\EPPlus.dll
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\bin\Debug\EPPlus.xml
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\bin\Debug\IPDO_Compass.exe.manifest
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\bin\Debug\IPDO_Compass.application
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\obj\Debug\IPDO_Compass.exe.manifest
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\obj\Debug\IPDO_Compass.application
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\bin\Debug\EntityFramework.dll
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\bin\Debug\Ookii.Dialogs.WinForms.dll
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\bin\Debug\EntityFramework.xml
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\bin\Debug\Ookii.Dialogs.WinForms.pdb
+C:\Users\alex.marques\source\repos\IPDO_Compass\IPDO_Compass\bin\Debug\Ookii.Dialogs.WinForms.xml
+C:\Development\IPDO_Compass\IPDO_Compass\bin\Debug\IPDO_Compass.exe.config
+C:\Development\IPDO_Compass\IPDO_Compass\bin\Debug\IPDO_Compass.exe.manifest
+C:\Development\IPDO_Compass\IPDO_Compass\bin\Debug\IPDO_Compass.application
+C:\Development\IPDO_Compass\IPDO_Compass\bin\Debug\IPDO_Compass.exe
+C:\Development\IPDO_Compass\IPDO_Compass\bin\Debug\IPDO_Compass.pdb
+C:\Development\IPDO_Compass\IPDO_Compass\bin\Debug\BouncyCastle.Crypto.dll
+C:\Development\IPDO_Compass\IPDO_Compass\bin\Debug\Common.Logging.Core.dll
+C:\Development\IPDO_Compass\IPDO_Compass\bin\Debug\Common.Logging.dll
+C:\Development\IPDO_Compass\IPDO_Compass\bin\Debug\EntityFramework.dll
+C:\Development\IPDO_Compass\IPDO_Compass\bin\Debug\EntityFramework.SqlServer.dll
+C:\Development\IPDO_Compass\IPDO_Compass\bin\Debug\EPPlus.dll
+C:\Development\IPDO_Compass\IPDO_Compass\bin\Debug\Newtonsoft.Json.dll
+C:\Development\IPDO_Compass\IPDO_Compass\bin\Debug\Ookii.Dialogs.WinForms.dll
+C:\Development\IPDO_Compass\IPDO_Compass\bin\Debug\zxing.dll
+C:\Development\IPDO_Compass\IPDO_Compass\bin\Debug\zxing.presentation.dll
+C:\Development\IPDO_Compass\IPDO_Compass\bin\Debug\BouncyCastle.Crypto.xml
+C:\Development\IPDO_Compass\IPDO_Compass\bin\Debug\Common.Logging.pdb
+C:\Development\IPDO_Compass\IPDO_Compass\bin\Debug\Common.Logging.xml
+C:\Development\IPDO_Compass\IPDO_Compass\bin\Debug\Common.Logging.Core.pdb
+C:\Development\IPDO_Compass\IPDO_Compass\bin\Debug\Common.Logging.Core.xml
+C:\Development\IPDO_Compass\IPDO_Compass\bin\Debug\EntityFramework.xml
+C:\Development\IPDO_Compass\IPDO_Compass\bin\Debug\EntityFramework.SqlServer.xml
+C:\Development\IPDO_Compass\IPDO_Compass\bin\Debug\EPPlus.xml
+C:\Development\IPDO_Compass\IPDO_Compass\bin\Debug\Newtonsoft.Json.xml
+C:\Development\IPDO_Compass\IPDO_Compass\bin\Debug\Ookii.Dialogs.WinForms.pdb
+C:\Development\IPDO_Compass\IPDO_Compass\bin\Debug\Ookii.Dialogs.WinForms.xml
+C:\Development\IPDO_Compass\IPDO_Compass\bin\Debug\zxing.pdb
+C:\Development\IPDO_Compass\IPDO_Compass\bin\Debug\zxing.xml
+C:\Development\IPDO_Compass\IPDO_Compass\bin\Debug\zxing.presentation.pdb
+C:\Development\IPDO_Compass\IPDO_Compass\bin\Debug\zxing.presentation.xml
+C:\Development\IPDO_Compass\IPDO_Compass\obj\Debug\IPDO_Compass.Form1.resources
+C:\Development\IPDO_Compass\IPDO_Compass\obj\Debug\IPDO_Compass.Properties.Resources.resources
+C:\Development\IPDO_Compass\IPDO_Compass\obj\Debug\IPDO_Compass.csproj.GenerateResource.cache
+C:\Development\IPDO_Compass\IPDO_Compass\obj\Debug\IPDO_Compass.csproj.CoreCompileInputs.cache
+C:\Development\IPDO_Compass\IPDO_Compass\obj\Debug\IPDO_Compass.exe.manifest
+C:\Development\IPDO_Compass\IPDO_Compass\obj\Debug\IPDO_Compass.application
+C:\Development\IPDO_Compass\IPDO_Compass\obj\Debug\IPDO_Compass.csproj.CopyComplete
+C:\Development\IPDO_Compass\IPDO_Compass\obj\Debug\IPDO_Compass.exe
+C:\Development\IPDO_Compass\IPDO_Compass\obj\Debug\IPDO_Compass.pdb
+C:\Development\auxiliar\IPDO_Compass\IPDO_Compass\bin\Debug\IPDO_Compass.exe.config
+C:\Development\auxiliar\IPDO_Compass\IPDO_Compass\bin\Debug\IPDO_Compass.exe.manifest
+C:\Development\auxiliar\IPDO_Compass\IPDO_Compass\bin\Debug\IPDO_Compass.application
+C:\Development\auxiliar\IPDO_Compass\IPDO_Compass\bin\Debug\IPDO_Compass.exe
+C:\Development\auxiliar\IPDO_Compass\IPDO_Compass\bin\Debug\IPDO_Compass.pdb
+C:\Development\auxiliar\IPDO_Compass\IPDO_Compass\bin\Debug\BouncyCastle.Crypto.dll
+C:\Development\auxiliar\IPDO_Compass\IPDO_Compass\bin\Debug\Common.Logging.Core.dll
+C:\Development\auxiliar\IPDO_Compass\IPDO_Compass\bin\Debug\Common.Logging.dll
+C:\Development\auxiliar\IPDO_Compass\IPDO_Compass\bin\Debug\EntityFramework.dll
+C:\Development\auxiliar\IPDO_Compass\IPDO_Compass\bin\Debug\EntityFramework.SqlServer.dll
+C:\Development\auxiliar\IPDO_Compass\IPDO_Compass\bin\Debug\EPPlus.dll
+C:\Development\auxiliar\IPDO_Compass\IPDO_Compass\bin\Debug\Newtonsoft.Json.dll
+C:\Development\auxiliar\IPDO_Compass\IPDO_Compass\bin\Debug\Ookii.Dialogs.WinForms.dll
+C:\Development\auxiliar\IPDO_Compass\IPDO_Compass\bin\Debug\zxing.dll
+C:\Development\auxiliar\IPDO_Compass\IPDO_Compass\bin\Debug\zxing.presentation.dll
+C:\Development\auxiliar\IPDO_Compass\IPDO_Compass\bin\Debug\BouncyCastle.Crypto.xml
+C:\Development\auxiliar\IPDO_Compass\IPDO_Compass\bin\Debug\Common.Logging.pdb
+C:\Development\auxiliar\IPDO_Compass\IPDO_Compass\bin\Debug\Common.Logging.xml
+C:\Development\auxiliar\IPDO_Compass\IPDO_Compass\bin\Debug\Common.Logging.Core.pdb
+C:\Development\auxiliar\IPDO_Compass\IPDO_Compass\bin\Debug\Common.Logging.Core.xml
+C:\Development\auxiliar\IPDO_Compass\IPDO_Compass\bin\Debug\EntityFramework.xml
+C:\Development\auxiliar\IPDO_Compass\IPDO_Compass\bin\Debug\EntityFramework.SqlServer.xml
+C:\Development\auxiliar\IPDO_Compass\IPDO_Compass\bin\Debug\EPPlus.xml
+C:\Development\auxiliar\IPDO_Compass\IPDO_Compass\bin\Debug\Newtonsoft.Json.xml
+C:\Development\auxiliar\IPDO_Compass\IPDO_Compass\bin\Debug\Ookii.Dialogs.WinForms.pdb
+C:\Development\auxiliar\IPDO_Compass\IPDO_Compass\bin\Debug\Ookii.Dialogs.WinForms.xml
+C:\Development\auxiliar\IPDO_Compass\IPDO_Compass\bin\Debug\zxing.pdb
+C:\Development\auxiliar\IPDO_Compass\IPDO_Compass\bin\Debug\zxing.xml
+C:\Development\auxiliar\IPDO_Compass\IPDO_Compass\bin\Debug\zxing.presentation.pdb
+C:\Development\auxiliar\IPDO_Compass\IPDO_Compass\bin\Debug\zxing.presentation.xml
+C:\Development\auxiliar\IPDO_Compass\IPDO_Compass\obj\Debug\IPDO_Compass.Form1.resources
+C:\Development\auxiliar\IPDO_Compass\IPDO_Compass\obj\Debug\IPDO_Compass.Properties.Resources.resources
+C:\Development\auxiliar\IPDO_Compass\IPDO_Compass\obj\Debug\IPDO_Compass.csproj.GenerateResource.cache
+C:\Development\auxiliar\IPDO_Compass\IPDO_Compass\obj\Debug\IPDO_Compass.csproj.CoreCompileInputs.cache
+C:\Development\auxiliar\IPDO_Compass\IPDO_Compass\obj\Debug\IPDO_Compass.exe.manifest
+C:\Development\auxiliar\IPDO_Compass\IPDO_Compass\obj\Debug\IPDO_Compass.application
+C:\Development\auxiliar\IPDO_Compass\IPDO_Compass\obj\Debug\IPDO_Compass.csproj.CopyComplete
+C:\Development\auxiliar\IPDO_Compass\IPDO_Compass\obj\Debug\IPDO_Compass.exe
+C:\Development\auxiliar\IPDO_Compass\IPDO_Compass\obj\Debug\IPDO_Compass.pdb
+C:\Development\IPDO_Compass\IPDO_Compass\obj\Debug\IPDO_Compass.csprojAssemblyReference.cache
+C:\Development\auxiliar\IPDO_Compass\IPDO_Compass\obj\Debug\IPDO_Compass.csprojAssemblyReference.cache
+C:\Development\auxiliar\IPDO_Compass - Azure\IPDO_Compass\bin\Debug\IPDO_Compass.exe.config
+C:\Development\auxiliar\IPDO_Compass - Azure\IPDO_Compass\bin\Debug\IPDO_Compass.exe.manifest
+C:\Development\auxiliar\IPDO_Compass - Azure\IPDO_Compass\bin\Debug\IPDO_Compass.application
+C:\Development\auxiliar\IPDO_Compass - Azure\IPDO_Compass\bin\Debug\IPDO_Compass.exe
+C:\Development\auxiliar\IPDO_Compass - Azure\IPDO_Compass\bin\Debug\IPDO_Compass.pdb
+C:\Development\auxiliar\IPDO_Compass - Azure\IPDO_Compass\bin\Debug\BouncyCastle.Crypto.dll
+C:\Development\auxiliar\IPDO_Compass - Azure\IPDO_Compass\bin\Debug\Common.Logging.Core.dll
+C:\Development\auxiliar\IPDO_Compass - Azure\IPDO_Compass\bin\Debug\Common.Logging.dll
+C:\Development\auxiliar\IPDO_Compass - Azure\IPDO_Compass\bin\Debug\EntityFramework.dll
+C:\Development\auxiliar\IPDO_Compass - Azure\IPDO_Compass\bin\Debug\EntityFramework.SqlServer.dll
+C:\Development\auxiliar\IPDO_Compass - Azure\IPDO_Compass\bin\Debug\EPPlus.dll
+C:\Development\auxiliar\IPDO_Compass - Azure\IPDO_Compass\bin\Debug\Newtonsoft.Json.dll
+C:\Development\auxiliar\IPDO_Compass - Azure\IPDO_Compass\bin\Debug\Ookii.Dialogs.WinForms.dll
+C:\Development\auxiliar\IPDO_Compass - Azure\IPDO_Compass\bin\Debug\zxing.dll
+C:\Development\auxiliar\IPDO_Compass - Azure\IPDO_Compass\bin\Debug\zxing.presentation.dll
+C:\Development\auxiliar\IPDO_Compass - Azure\IPDO_Compass\bin\Debug\BouncyCastle.Crypto.xml
+C:\Development\auxiliar\IPDO_Compass - Azure\IPDO_Compass\bin\Debug\Common.Logging.pdb
+C:\Development\auxiliar\IPDO_Compass - Azure\IPDO_Compass\bin\Debug\Common.Logging.xml
+C:\Development\auxiliar\IPDO_Compass - Azure\IPDO_Compass\bin\Debug\Common.Logging.Core.pdb
+C:\Development\auxiliar\IPDO_Compass - Azure\IPDO_Compass\bin\Debug\Common.Logging.Core.xml
+C:\Development\auxiliar\IPDO_Compass - Azure\IPDO_Compass\bin\Debug\EntityFramework.xml
+C:\Development\auxiliar\IPDO_Compass - Azure\IPDO_Compass\bin\Debug\EntityFramework.SqlServer.xml
+C:\Development\auxiliar\IPDO_Compass - Azure\IPDO_Compass\bin\Debug\EPPlus.xml
+C:\Development\auxiliar\IPDO_Compass - Azure\IPDO_Compass\bin\Debug\Newtonsoft.Json.xml
+C:\Development\auxiliar\IPDO_Compass - Azure\IPDO_Compass\bin\Debug\Ookii.Dialogs.WinForms.pdb
+C:\Development\auxiliar\IPDO_Compass - Azure\IPDO_Compass\bin\Debug\Ookii.Dialogs.WinForms.xml
+C:\Development\auxiliar\IPDO_Compass - Azure\IPDO_Compass\bin\Debug\zxing.pdb
+C:\Development\auxiliar\IPDO_Compass - Azure\IPDO_Compass\bin\Debug\zxing.xml
+C:\Development\auxiliar\IPDO_Compass - Azure\IPDO_Compass\bin\Debug\zxing.presentation.pdb
+C:\Development\auxiliar\IPDO_Compass - Azure\IPDO_Compass\bin\Debug\zxing.presentation.xml
+C:\Development\auxiliar\IPDO_Compass - Azure\IPDO_Compass\obj\Debug\IPDO_Compass.csprojAssemblyReference.cache
+C:\Development\auxiliar\IPDO_Compass - Azure\IPDO_Compass\obj\Debug\IPDO_Compass.Form1.resources
+C:\Development\auxiliar\IPDO_Compass - Azure\IPDO_Compass\obj\Debug\IPDO_Compass.Properties.Resources.resources
+C:\Development\auxiliar\IPDO_Compass - Azure\IPDO_Compass\obj\Debug\IPDO_Compass.csproj.GenerateResource.cache
+C:\Development\auxiliar\IPDO_Compass - Azure\IPDO_Compass\obj\Debug\IPDO_Compass.csproj.CoreCompileInputs.cache
+C:\Development\auxiliar\IPDO_Compass - Azure\IPDO_Compass\obj\Debug\IPDO_Compass.exe.manifest
+C:\Development\auxiliar\IPDO_Compass - Azure\IPDO_Compass\obj\Debug\IPDO_Compass.application
+C:\Development\auxiliar\IPDO_Compass - Azure\IPDO_Compass\obj\Debug\IPDO_Compass.csproj.CopyComplete
+C:\Development\auxiliar\IPDO_Compass - Azure\IPDO_Compass\obj\Debug\IPDO_Compass.exe
+C:\Development\auxiliar\IPDO_Compass - Azure\IPDO_Compass\obj\Debug\IPDO_Compass.pdb
